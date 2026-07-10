@@ -36,8 +36,8 @@ https://weather-dashboard-lnoh.onrender.com
 
 ### Home Page
 
-<img width="1920" height="1200" alt="Screenshot (1160)" src="https://github.com/user-attachments/assets/86f3ecc8-f2b2-4206-8311-2970e45c13b0" />
-<img width="1920" height="1200" alt="Screenshot (1161)" src="https://github.com/user-attachments/assets/9e3ae7a3-722a-450d-894a-f8f22f550cd6" />
+<img width="1920" height="1200" alt="Screenshot (1160)" src="frontend/src/assets/projectscreenshot1.png" />
+<img width="1920" height="1200" alt="Screenshot (1161)" src="frontend/src/assets/projectscreenshot2.png" />
 
 
 ---
@@ -100,7 +100,7 @@ weather-dashboard
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/AnushkaBhatia1229/weather-dashboard.git
+git clone https://github.com/Lokanath2607/Weather_Dashboard.git
 ```
 
 ### 2. Go into Project
@@ -218,12 +218,12 @@ GET /api/weather/forecast?city=Delhi
 
 ## 👩‍💻 Author
 
-**Anushka Bhatia**
+**Lokanath S**
 
-🎓 BCA (Artificial Intelligence & Machine Learning)
+🎓 BE (Artificial Intelligence & Machine Learning)
 
 🔗 GitHub:
-https://github.com/AnushkaBhatia1229
+https://github.com/Lokanath2607
 
 ---
 
